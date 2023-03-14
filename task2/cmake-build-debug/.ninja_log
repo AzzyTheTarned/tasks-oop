@@ -1,0 +1,22 @@
+# ninja log v5
+11	664	6999660278701394	hashtag/CMakeFiles/hashtag.dir/src/hashtag.cpp.obj	28932ac0c88fbbab
+667	813	6999660280201825	hashtag/libhashtag.a	40b61d0e258257d5
+26	1854	6999660290590606	googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	3d73321a6f78d8d5
+1	1979	6999660291852709	CMakeFiles/tests.dir/tests.cpp.obj	574f2513318ad9fa
+18	7304	6999660345011310	googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	19194c892b16f920
+7306	9035	6999660362432285	lib/libgtest.a	13b8e498d5ccbcc6
+9035	9092	6999660363011589	lib/libgtest_main.a	b5f5372e4529ecfe
+9092	11280	6999660384770985	tests.exe	c2dfbe39fcf19524
+2	309	6999660641821396	CMakeFiles/main.dir/main.cpp.obj	d12e5daa3db02ab
+310	407	6999660642759510	main.exe	f80d06c93fb0c3ec
+2	459	6999664903214685	CMakeFiles/main.dir/main.cpp.obj	d12e5daa3db02ab
+460	572	6999664904305346	main.exe	f80d06c93fb0c3ec
+7	286	6999672735093422	CMakeFiles/main.dir/main.cpp.obj	d12e5daa3db02ab
+3	319	6999672735430285	hashtag/CMakeFiles/hashtag.dir/src/hashtag.cpp.obj	28932ac0c88fbbab
+319	411	6999672736338129	hashtag/libhashtag.a	40b61d0e258257d5
+411	628	6999672738470590	main.exe	f80d06c93fb0c3ec
+10	438	6999677654133330	hashtag/CMakeFiles/hashtag.dir/src/hashtag.cpp.obj	28932ac0c88fbbab
+438	520	6999677654956077	hashtag/libhashtag.a	40b61d0e258257d5
+5	1069	6999677660430568	CMakeFiles/tests.dir/tests.cpp.obj	574f2513318ad9fa
+1069	3350	6999677683156486	tests.exe	c2dfbe39fcf19524
+3	97	6999679034639008	main.exe	f80d06c93fb0c3ec

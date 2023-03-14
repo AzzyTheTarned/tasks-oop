@@ -1,0 +1,25 @@
+# ninja log v5
+13	627	6999896826090547	src/CMakeFiles/stack.dir/stack.cpp.obj	348e17c3171aa219
+8	639	6999896826075417	src/CMakeFiles/operator.dir/operator.cpp.obj	674ea4577826add
+630	744	6999896827263153	src/libstack.a	8ca70e6707dec7e
+639	749	6999896827308397	src/liboperator.a	1d5f11dd0264b38b
+35	1487	6999896834695592	googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	803fde6fd299779c
+2	1554	6999896835361040	CMakeFiles/tests.dir/tests.cpp.obj	67bb5232a0ad01d2
+43	7010	6999896889816735	googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	122fff1e58748857
+7012	8736	6999896907192473	lib/libgtest.a	13b8e498d5ccbcc6
+8736	8800	6999896907840732	lib/libgtest_main.a	b5f5372e4529ecfe
+8800	10991	6999896929671135	tests.exe	6b6067597f90ba6a
+4	1116	6999897753636430	CMakeFiles/tests.dir/tests.cpp.obj	67bb5232a0ad01d2
+1116	3289	6999897775273398	tests.exe	6b6067597f90ba6a
+3	418	6999900000012855	CMakeFiles/main.dir/main.cpp.obj	6f4ae29608b78ffa
+418	525	6999900001038653	main.exe	55520155545e561e
+4	308	6999903522041185	CMakeFiles/main.dir/main.cpp.obj	6f4ae29608b78ffa
+8	321	6999903522181266	src/CMakeFiles/operator.dir/operator.cpp.obj	674ea4577826add
+321	398	6999903522952211	src/liboperator.a	1d5f11dd0264b38b
+398	482	6999903523739425	main.exe	55520155545e561e
+7	386	6999906768770060	src/CMakeFiles/operator.dir/operator.cpp.obj	674ea4577826add
+10	397	6999906768881437	src/CMakeFiles/stack.dir/stack.cpp.obj	348e17c3171aa219
+3	420	6999906769124105	CMakeFiles/main.dir/main.cpp.obj	6f4ae29608b78ffa
+398	490	6999906769818963	src/libstack.a	8ca70e6707dec7e
+387	496	6999906769864195	src/liboperator.a	1d5f11dd0264b38b
+496	594	6999906770827298	main.exe	55520155545e561e

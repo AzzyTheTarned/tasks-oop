@@ -1,0 +1,20 @@
+# ninja log v5
+10	591	6999751032764432	RingBuff/CMakeFiles/RingBuff.dir/src/RingBuff.cpp.obj	b247d9ff2a76750e
+1	601	6999751032774400	CMakeFiles/main.dir/main.cpp.obj	90f2338a86b23a12
+594	683	6999751033677192	RingBuff/libRingBuff.a	144b1b29ccdee34b
+9	331	6999751552944719	RingBuff/CMakeFiles/RingBuff.dir/src/RingBuff.cpp.obj	b247d9ff2a76750e
+3	363	6999751553260741	CMakeFiles/main.dir/main.cpp.obj	90f2338a86b23a12
+332	440	6999751554050405	RingBuff/libRingBuff.a	144b1b29ccdee34b
+7	321	6999758991795094	RingBuff/CMakeFiles/RingBuff.dir/src/RingBuff.cpp.obj	b247d9ff2a76750e
+3	330	6999758991894455	CMakeFiles/main.dir/main.cpp.obj	90f2338a86b23a12
+322	397	6999758992558781	RingBuff/libRingBuff.a	144b1b29ccdee34b
+3	344	6999762311607893	CMakeFiles/main.dir/main.cpp.obj	90f2338a86b23a12
+7	351	6999762311693078	RingBuff/CMakeFiles/RingBuff.dir/src/RingBuff.cpp.obj	b247d9ff2a76750e
+351	429	6999762312467493	RingBuff/libRingBuff.a	144b1b29ccdee34b
+429	521	6999762313352750	main.exe	b23f2b734945221d
+3	280	6999764153718366	CMakeFiles/main.dir/main.cpp.obj	90f2338a86b23a12
+281	376	6999764154633715	main.exe	b23f2b734945221d
+2	284	6999764257119630	CMakeFiles/main.dir/main.cpp.obj	90f2338a86b23a12
+285	362	6999764257849796	main.exe	b23f2b734945221d
+3	305	6999764715635170	CMakeFiles/main.dir/main.cpp.obj	90f2338a86b23a12
+306	399	6999764716558800	main.exe	b23f2b734945221d

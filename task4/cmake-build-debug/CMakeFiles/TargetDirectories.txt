@@ -1,0 +1,6 @@
+C:/Users/azzyt/Desktop/OOPTASK/task4/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/azzyt/Desktop/OOPTASK/task4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/azzyt/Desktop/OOPTASK/task4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/azzyt/Desktop/OOPTASK/task4/cmake-build-debug/RingBuff/CMakeFiles/RingBuff.dir
+C:/Users/azzyt/Desktop/OOPTASK/task4/cmake-build-debug/RingBuff/CMakeFiles/edit_cache.dir
+C:/Users/azzyt/Desktop/OOPTASK/task4/cmake-build-debug/RingBuff/CMakeFiles/rebuild_cache.dir
